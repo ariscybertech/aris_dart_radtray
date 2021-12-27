@@ -1,0 +1,12 @@
+name: dartray
+version: 0.0.1
+author: Brendan Duncan <brendanduncan@gmail.com>
+description: DartRay is an extendable physically based ray tracer providing a number of state-of-the-art algorithms for rendering, lighting and shading. It is a port of the PBRT renderer.
+homepage: https://github.com/brendan-duncan/dartray
+documentation: https://github.com/brendan-duncan/dartray/wiki
+dependencies:
+  archive: '>=1.0.16 <2.0.0'
+  image: '>=1.1.20 <2.0.0'
+dev_dependencies:
+  args: any
+  crypto: any
